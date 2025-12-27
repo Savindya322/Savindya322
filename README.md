@@ -6,11 +6,17 @@
 - 🥅 2026 Goals: Learn more about ML and Data Science.
 - 🚀 Fun fact: I love to play badminton.
 
+  <br>
+<br>
+
 ---
+
 
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/savindya-thathsarani-210065370)
+<br>
+<br>
 
 ---
 
