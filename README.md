@@ -1,4 +1,5 @@
-# Hi there, I'm Savindya 
+# Hi there, I'm Savindya <img src="teddy-bear-joypixels.gif" width="40px" alt="Teddy Bear" />
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Savindya322&label=Profile%20Views&color=blueviolet&style=plastic)
 
