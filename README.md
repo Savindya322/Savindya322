@@ -8,10 +8,8 @@
 
 - 🚀 Fun fact: I love to play badminton.
 <br>
-<br>
 
 ---
-
 
 ### Connect with me:
 
