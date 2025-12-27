@@ -5,8 +5,7 @@
 - 👩🏽‍💻 I’m currently an undergraduate at USJ.
 - 🥅 2026 Goals: Learn more about ML and Data Science.
 - 🚀 Fun fact: I love to play badminton.
-
-  <br>
+<br>
 <br>
 
 ---
