@@ -1,9 +1,10 @@
-# Hi there, I'm Savindya 👋 ![Wave Emoji](img/06_bubududuspinorange-ezgif.com-resize%20(3).gif)
+# Hi there, I'm Savindya 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Savindya322&label=Profile%20Views&color=blueviolet&style=plastic)
 
 - 👩🏽‍💻 I’m currently an undergraduate at USJ.
 - 🥅 2026 Goals: Learn more about ML and Data Science.
+
 - 🚀 Fun fact: I love to play badminton.
 <br>
 <br>
