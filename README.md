@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/savindya-thathsarani-210065370)  
+[<img align="left" alt="LinkedIn" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/savindya-thathsarani-210065370)
 
 ---
 
